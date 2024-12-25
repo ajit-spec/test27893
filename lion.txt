@@ -13,3 +13,23 @@ Characteristics:
 King of the Jungle:
 Despite being called the "King of the Jungle," lions actually prefer open grasslands and savannas. This title comes from their position as apex predators and their majestic appearance. They have no natural predators in their habitat and are considered one of the most powerful big cats.
 
+Social Behavior:
+Lions are unique among big cats as they live in social groups called prides. A typical pride consists of 2-3 males, 6-12 related females, and their cubs. Female lions usually stay with their birth pride, while males leave to establish their own territories. Pride members show strong social bonds through activities like grooming, playing, and defending their territory together. Males protect the pride and their territory, while females coordinate hunting and raise cubs collaboratively.
+
+Hunting Behavior:
+Lions are skilled cooperative hunters, with females doing most of the hunting in coordinated groups. They primarily hunt at dawn, dusk, or night, using their excellent night vision. Their main prey includes:
+- Medium to large ungulates (wildebeest, zebra, antelope)
+- Occasionally smaller prey like warthogs and birds
+- In some regions, they may hunt larger prey like buffalo and young elephants
+The hunting strategy typically involves some lionesses driving prey toward others waiting in ambush.
+
+Conservation Status:
+The African lion faces significant challenges to its survival:
+- Population has declined by 43% in the last three generations
+- Currently listed as Vulnerable on the IUCN Red List
+- Major threats include:
+* Habitat loss and fragmentation
+* Human-wildlife conflict
+* Poaching
+* Reduction in prey base
+Conservation efforts focus on protecting habitats, reducing human-lion conflict, and maintaining corridor connectivity between lion populations
